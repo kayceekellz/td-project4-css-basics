@@ -27,6 +27,9 @@ body{
     line-height: 80px;
 
 }
+.header-list:hover{
+    cursor: pointer;
+}
 .header-list{
     display: flex;
 gap: 30px;
@@ -72,7 +75,7 @@ h1{
     padding-top: 40px;
     text-align: left;
 }
-h3.tools-text{
+#tools-text{
     /* margin-right: auto; */
     padding: 0 100px;
     width: 100%;
